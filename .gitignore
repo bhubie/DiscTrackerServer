@@ -389,3 +389,11 @@ Temporary Items
 # Local
 dokcer-compose.yml
 .env
+
+
+
+#SERVERLESS STUFF
+admin.env
+.env
+_meta
+.serverless
